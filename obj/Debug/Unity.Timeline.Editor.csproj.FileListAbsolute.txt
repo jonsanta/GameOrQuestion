@@ -1,0 +1,2 @@
+E:\Copia de seguridad\Proyectos Unity\En Progreso\GameOrQuestion\obj\Debug\Unity.Timeline.Editor.csproj.AssemblyReference.cache
+E:\Copia de seguridad\Proyectos Unity\En Progreso\GameOrQuestion\obj\Debug\Unity.Timeline.Editor.csproj.CoreCompileInputs.cache
