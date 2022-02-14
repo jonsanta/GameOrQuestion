@@ -53,18 +53,18 @@
     <UnityVersion>2020.3.22f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Preguntas\Answer.cs" />
-    <Compile Include="Assets\Scripts\Preguntas\Question.cs" />
+    <Compile Include="Assets\Scripts\Questions\Answer.cs" />
+    <Compile Include="Assets\Scripts\Questions\Question.cs" />
     <Compile Include="Assets\Scripts\Player.cs" />
-    <Compile Include="Assets\Scripts\Juegos\Cartas Adivinacion\CreateCard.cs" />
+    <Compile Include="Assets\Scripts\Games\Guessing game\CreateCard.cs" />
     <Compile Include="Assets\Scripts\Door.cs" />
-    <Compile Include="Assets\Scripts\Juegos\VasosPelota Adivinacion\Glass.cs" />
-    <Compile Include="Assets\Scripts\Juegos\VasosPelota Adivinacion\BallGame.cs" />
+    <Compile Include="Assets\Scripts\Games\Glass game\Glass.cs" />
+    <Compile Include="Assets\Scripts\Games\Glass game\BallGame.cs" />
     <Compile Include="Assets\Scripts\Shop.cs" />
-    <Compile Include="Assets\Scripts\Juegos\GameChooser.cs" />
-    <Compile Include="Assets\Scripts\Juegos\Cartas Adivinacion\Card.cs" />
-    <Compile Include="Assets\Scripts\Juegos\BlackJack\BlackJack.cs" />
-    <Compile Include="Assets\Scripts\Cofre\Cofre.cs" />
+    <Compile Include="Assets\Scripts\Games\GameChooser.cs" />
+    <Compile Include="Assets\Scripts\Games\Guessing game\Card.cs" />
+    <Compile Include="Assets\Scripts\Games\BlackJack\BlackJack.cs" />
+    <Compile Include="Assets\Scripts\Chest\Cofre.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Resources\Questions.xml" />

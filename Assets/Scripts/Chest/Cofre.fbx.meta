@@ -1,0 +1,468 @@
+fileFormatVersion: 2
+guid: c1b9e3104ff374b42a18ffb6d4f81697
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Cilindro
+  - first:
+      1: 100002
+    second: Cilindro.001
+  - first:
+      1: 100004
+    second: Cubo
+  - first:
+      1: 100006
+    second: Curva NURBS
+  - first:
+      1: 100008
+    second: Curva NURBS.001
+  - first:
+      1: 100010
+    second: Esfera
+  - first:
+      1: 100012
+    second: "Esfera geod\xE9sica"
+  - first:
+      1: 100014
+    second: "Esfera geod\xE9sica.001"
+  - first:
+      1: 100016
+    second: "Esfera geod\xE9sica.002"
+  - first:
+      1: 100018
+    second: "Esfera geod\xE9sica.003"
+  - first:
+      1: 100020
+    second: espada
+  - first:
+      1: 100022
+    second: //RootNode
+  - first:
+      1: 100024
+    second: TAPA1
+  - first:
+      1: 100026
+    second: TAPA22
+  - first:
+      4: 400000
+    second: Cilindro
+  - first:
+      4: 400002
+    second: Cilindro.001
+  - first:
+      4: 400004
+    second: Cubo
+  - first:
+      4: 400006
+    second: Curva NURBS
+  - first:
+      4: 400008
+    second: Curva NURBS.001
+  - first:
+      4: 400010
+    second: Esfera
+  - first:
+      4: 400012
+    second: "Esfera geod\xE9sica"
+  - first:
+      4: 400014
+    second: "Esfera geod\xE9sica.001"
+  - first:
+      4: 400016
+    second: "Esfera geod\xE9sica.002"
+  - first:
+      4: 400018
+    second: "Esfera geod\xE9sica.003"
+  - first:
+      4: 400020
+    second: espada
+  - first:
+      4: 400022
+    second: //RootNode
+  - first:
+      4: 400024
+    second: TAPA1
+  - first:
+      4: 400026
+    second: TAPA22
+  - first:
+      23: 2300000
+    second: Cilindro
+  - first:
+      23: 2300002
+    second: Cilindro.001
+  - first:
+      23: 2300004
+    second: Cubo
+  - first:
+      23: 2300006
+    second: Curva NURBS
+  - first:
+      23: 2300008
+    second: Curva NURBS.001
+  - first:
+      23: 2300010
+    second: Esfera
+  - first:
+      23: 2300012
+    second: "Esfera geod\xE9sica"
+  - first:
+      23: 2300014
+    second: "Esfera geod\xE9sica.001"
+  - first:
+      23: 2300016
+    second: "Esfera geod\xE9sica.002"
+  - first:
+      23: 2300018
+    second: "Esfera geod\xE9sica.003"
+  - first:
+      23: 2300020
+    second: espada
+  - first:
+      23: 2300022
+    second: TAPA1
+  - first:
+      23: 2300024
+    second: TAPA22
+  - first:
+      33: 3300000
+    second: Cilindro
+  - first:
+      33: 3300002
+    second: Cilindro.001
+  - first:
+      33: 3300004
+    second: Cubo
+  - first:
+      33: 3300006
+    second: Curva NURBS
+  - first:
+      33: 3300008
+    second: Curva NURBS.001
+  - first:
+      33: 3300010
+    second: Esfera
+  - first:
+      33: 3300012
+    second: "Esfera geod\xE9sica"
+  - first:
+      33: 3300014
+    second: "Esfera geod\xE9sica.001"
+  - first:
+      33: 3300016
+    second: "Esfera geod\xE9sica.002"
+  - first:
+      33: 3300018
+    second: "Esfera geod\xE9sica.003"
+  - first:
+      33: 3300020
+    second: espada
+  - first:
+      33: 3300022
+    second: TAPA1
+  - first:
+      33: 3300024
+    second: TAPA22
+  - first:
+      43: 4300000
+    second: Esfera
+  - first:
+      43: 4300002
+    second: Curva NURBS
+  - first:
+      43: 4300004
+    second: espada
+  - first:
+      43: 4300006
+    second: "Esfera geod\xE9sica.001"
+  - first:
+      43: 4300008
+    second: "Esfera geod\xE9sica.003"
+  - first:
+      43: 4300010
+    second: "Esfera geod\xE9sica.002"
+  - first:
+      43: 4300012
+    second: "Esfera geod\xE9sica"
+  - first:
+      43: 4300014
+    second: Cilindro.001
+  - first:
+      43: 4300016
+    second: Cilindro
+  - first:
+      43: 4300018
+    second: TAPA1
+  - first:
+      43: 4300020
+    second: TAPA22
+  - first:
+      43: 4300022
+    second: Cubo
+  - first:
+      43: 4300024
+    second: Curva NURBS.001
+  - first:
+      74: 7400000
+    second: "TAPA1|Esfera geod\xE9sicaAction"
+  - first:
+      74: 7400002
+    second: Idle
+  - first:
+      74: 7400004
+    second: Abrir
+  - first:
+      74: 7400006
+    second: Abierto
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      74: 6618690700278530181
+    second: End
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 0a2c42e4b78d1b543a631e740db03a9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 5668117bc25569e4483890d93cc4ac53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: ab3aa19580dace241878217d49938754, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: c9ca19304e8313a408fc5195af55904d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: c1cc3883cd7b52147831feb6015f7b25, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: 0ac9fabdb05592c49b97e041cc825757, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 85752e2a4429be44b831aaf17af98f59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: 0ec911b3ebc910842a06f8545f89a4ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: 8853d3d7f834f6546ae076a8d27af969, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: 908891f639a351048abc6ede65889840, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: 69ccebdcd056f9b408150f3852cf81b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {fileID: 2100000, guid: 40cbd3ee47a0c4f4099f83ceefea7ec8, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: TAPA1|TAPA1Action
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 0.10000001
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Abrir
+      takeName: TAPA1|TAPA1Action
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 71
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: End
+      takeName: TAPA1|TAPA1Action
+      internalID: 0
+      firstFrame: 71
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
