@@ -2,7 +2,7 @@
 
 <!DOCTYPE Game [
 <!ELEMENT Game (QuestionLine*)>
-<!ELEMENT QuestionLine (Question, CorrectAnswer, IncorrectAnswer+)>
+<!ELEMENT QuestionLine ((Question, CorrectAnswer, IncorrectAnswer+)|(Question, IncorrectAnswer+, CorrectAnswer))>
 <!ELEMENT Question (#PCDATA)>
 <!ELEMENT CorrectAnswer (#PCDATA)>
 <!ELEMENT IncorrectAnswer (#PCDATA)>
@@ -11,18 +11,18 @@
 <Game>
   <QuestionLine id="1"> <!--ID must be unique and incremental-->
     <Question>¿Cual es la ciudad mas poblada del Mundo?</Question> <!--Question always first-->
-    <CorrectAnswer>Tokio</CorrectAnswer><!--CorrectAnswer always second-->
-    <IncorrectAnswer>Shangai</IncorrectAnswer>
+    <IncorrectAnswer>Shangai</IncorrectAnswer><!-- Order of next elements doesn't care-->
+    <CorrectAnswer>Tokio</CorrectAnswer>
     <IncorrectAnswer>Madrid</IncorrectAnswer>
     <IncorrectAnswer>Nueva York</IncorrectAnswer>
   </QuestionLine>
   
   <QuestionLine id="2">
     <Question>¿En que equipo juega Lionel Messi?</Question>
-    <CorrectAnswer>FC Barcelona</CorrectAnswer>
     <IncorrectAnswer>Real Madrid</IncorrectAnswer>
     <IncorrectAnswer>Real Sociedad</IncorrectAnswer>
     <IncorrectAnswer>AC Milan</IncorrectAnswer>
+    <CorrectAnswer>FC Barcelona</CorrectAnswer>
   </QuestionLine>
   
   <QuestionLine id="3">

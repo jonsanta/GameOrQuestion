@@ -1,1 +1,3 @@
 E:\Copia de seguridad\Proyectos Unity\En Progreso\GameOrQuestion\obj\Debug\UnityEditor.Purchasing.csproj.CoreCompileInputs.cache
+E:\Datos\Copia de seguridad\Proyectos Unity\Linea Principal\GameOrQuestion\obj\Debug\UnityEditor.Purchasing.csproj.CoreCompileInputs.cache
+E:\Datos\Copia de seguridad\Proyectos Unity\Linea Principal\GameOrQuestion\obj\Debug\UnityEditor.Purchasing.csproj.AssemblyReference.cache

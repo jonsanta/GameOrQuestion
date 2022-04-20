@@ -275,3 +275,7 @@ E:\Copia de seguridad\Proyectos Unity\En Progreso\GameOrQuestion\obj\Debug\Unity
 E:\Copia de seguridad\Proyectos Unity\En Progreso\GameOrQuestion\obj\Debug\UnityEngine.TestRunner.csproj.CopyComplete
 E:\Copia de seguridad\Proyectos Unity\En Progreso\GameOrQuestion\obj\Debug\UnityEngine.TestRunner.dll
 E:\Copia de seguridad\Proyectos Unity\En Progreso\GameOrQuestion\obj\Debug\UnityEngine.TestRunner.pdb
+E:\Datos\Copia de seguridad\Proyectos Unity\Linea Principal\GameOrQuestion\obj\Debug\UnityEngine.TestRunner.csproj.AssemblyReference.cache
+E:\Datos\Copia de seguridad\Proyectos Unity\Linea Principal\GameOrQuestion\obj\Debug\UnityEngine.TestRunner.csproj.CoreCompileInputs.cache
+E:\Datos\Copia de seguridad\Proyectos Unity\Linea Principal\GameOrQuestion\obj\Debug\UnityEngine.TestRunner.dll
+E:\Datos\Copia de seguridad\Proyectos Unity\Linea Principal\GameOrQuestion\obj\Debug\UnityEngine.TestRunner.pdb
