@@ -2,6 +2,8 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+using System.Collections.Generic;
+
 public class Player : MonoBehaviour {
 	private bool shopOppened = false;
 
@@ -10,6 +12,8 @@ public class Player : MonoBehaviour {
 	private int score;
 
 	private int money;
+
+	private ISet<int> questionsNoRepeat = new HashSet<int>();
 
 	private GameObject[] livesSpriteArr;
 	private int maxLives = 3;
@@ -25,6 +29,7 @@ public class Player : MonoBehaviour {
 	private static Player playerInstance;
 
 	public AudioClip scorePopUp;
+
 	void Start()
 	{
 		lives = maxLives;
@@ -182,5 +187,15 @@ public class Player : MonoBehaviour {
 	public void setShopOppened(bool shopOppened)
     {
 		this.shopOppened = shopOppened;
+    }
+
+	public bool isQuestionRepeated(int num)
+    {
+		if (questionsNoRepeat.Contains(num)) return true; //If question has been displayed before
+        else //If not, add the question to the displayed answers list
+        {
+			questionsNoRepeat.Add(num);
+			return false;
+        }
     }
 }

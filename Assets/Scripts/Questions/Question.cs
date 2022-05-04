@@ -41,7 +41,11 @@ public class Question : MonoBehaviour
 
         XmlNodeList questions = xdoc.SelectSingleNode("Game").ChildNodes; //Root element childs
 
-        int index = (int)Random.Range(1f, questions.Count); //Select random question
+
+        int index;
+
+        do index = (int)Random.Range(1f, questions.Count); //Select random question and detect if has been displayed before, if so do look for a new question
+        while (GameObject.Find("Player").GetComponent<Player>().isQuestionRepeated(index));
 
         foreach (XmlElement item in questions)
         {
@@ -54,6 +58,7 @@ public class Question : MonoBehaviour
                     {
                         //if xml element name
                         case "Question": 
+
                             question = node.InnerText; //sets question
                             break;
                         case "CorrectAnswer":
